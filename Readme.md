@@ -31,19 +31,20 @@ It uses an *AWS Lambda* function as the event processor.
 <img src="./assets/Screenshot%20(198).png" width="500">
 
 ## Step 3 :-Subscribe your email to the topic
-![](./assets/Screenshot%20(199).png)
+<img src="./assets/Screenshot%20(199).png" width="500">
 ## Step 4 :-Create a Lambda function
 - Add an S3 Trigger
 - Add an SNS Destination
 
-![](./assets/Screenshot%20(200).png)
+<img src="./assets/Screenshot%20(200)" width="500">
+
 ## Step 5 :-Add Permission for SNS and S3
-![](./assets/Screenshot%20(201).png)
+<img src="./assets/Screenshot%20(201).png" width="500">
 ## Step 6 :-Test it
 ### 1 : Upload any file to your S3 bucket
-![](./assets/Screenshot%20(202).png)
+<img src="./assets/Screenshot%20(202).png" width="500">
 ### 2 : You'll get an email notification from SNS
-![](./assets/Screenshot%20(203).png)
+<img src="./assets/Screenshot%20(203).png" width="500">
 
 ## Conclusion :
 This project demonstrates how to automate email notifications using AWS Lambda, Amazon S3, and Amazon SNS. Whenever a new file is uploaded to the S3 bucket, the Lambda function is automatically triggered and sends an email alert via SNS.
