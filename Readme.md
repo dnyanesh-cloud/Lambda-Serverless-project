@@ -26,8 +26,10 @@ It uses an *AWS Lambda* function as the event processor.
 ## Steps to Set Up:
 ## Step 1 :-Create an S3 bucket
 <img src="./assets/Screenshot%20(197).png" width="500">
+
 ## Step 2 :-Create an SNS Topic
-![](./assets/Screenshot(198).png)
+<img src="./assets/Screenshot(198).png" width="500">
+
 ## Step 3 :-Subscribe your email to the topic
 ![](./assets/Screenshot%20(199).png)
 ## Step 4 :-Create a Lambda function
