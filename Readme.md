@@ -36,8 +36,7 @@ It uses an *AWS Lambda* function as the event processor.
 ## Step 4 :-Create a Lambda function
 - Add an S3 Trigger
 - Add an SNS Destination
-
-<img src="./assets/Screenshot%20(200)" width="500">
+<img src="./assets/Screenshot%20(200).png" width="500">
 
 ## Step 5 :-Add Permission for SNS and S3
 <img src="./assets/Screenshot%20(201).png" width="500">
