@@ -32,6 +32,7 @@ It uses an *AWS Lambda* function as the event processor.
 
 ## Step 3 :-Subscribe your email to the topic
 <img src="./assets/Screenshot%20(199).png" width="500">
+
 ## Step 4 :-Create a Lambda function
 - Add an S3 Trigger
 - Add an SNS Destination
