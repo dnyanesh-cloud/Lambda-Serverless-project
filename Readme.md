@@ -40,9 +40,11 @@ It uses an *AWS Lambda* function as the event processor.
 
 ## Step 5 :-Add Permission for SNS and S3
 <img src="./assets/Screenshot%20(201).png" width="500">
+
 ## Step 6 :-Test it
 ### 1 : Upload any file to your S3 bucket
 <img src="./assets/Screenshot%20(202).png" width="500">
+
 ### 2 : You'll get an email notification from SNS
 <img src="./assets/Screenshot%20(203).png" width="500">
 
