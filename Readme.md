@@ -28,7 +28,7 @@ It uses an *AWS Lambda* function as the event processor.
 <img src="./assets/Screenshot%20(197).png" width="500">
 
 ## Step 2 :-Create an SNS Topic
-<img src="./assets/Screenshot(198).png" width="500">
+<img src="./assets/Screenshot%20(198).png" width="500">
 
 ## Step 3 :-Subscribe your email to the topic
 ![](./assets/Screenshot%20(199).png)
